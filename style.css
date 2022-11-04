@@ -30,6 +30,7 @@ header, footer {                  /* geldt voor header en footer */
   margin: 10px 0px;
 }
 
+
 main {                       
   text-align: justify;            /* tekst uitvullen */}
 
@@ -47,7 +48,7 @@ p {
 
 .kolomLinks {
   float:left;
-  width:250px;
+  width:calc(100%-200px, 40px)
   padding-right:15px;           /* afstand tussen plaatje en rechterkolom */
 }
 .kolomRechts {
