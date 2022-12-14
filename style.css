@@ -113,21 +113,21 @@ nav li a.active {
 }
 
 .titlebox {
-  border:solid #bcf5cd ;
+  border:double 5px #bcf5cd ;
   background-color: whitesmoke;
   margin:20px;
   padding: 1px;
 }
 
-.box2 {
-  border:solid #bcf5cd ;
+.boxtekst {
+  border:solid 5px #bcf5cd ;
   background-color: whitesmoke;
   margin:20px;
   padding: 15px;
 }
 
-.box3 {
-  border:solid #bcf5cd ;
+.boxplaatje {
+  border:ridge 10px #cef7fd ;
   background-color: whitesmoke;
   margin:20px;
   padding: 1px;
