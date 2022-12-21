@@ -14,6 +14,7 @@ html, body {                      /* geldt voor html en body */
   background-image: url(afbeeldingen/BOJoseon.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
 }  
 
 body * {                          /* geldt voor alles in body */
@@ -121,7 +122,7 @@ nav li a.active {
 
 .boxtekst {
   border:solid 5px #bcf5cd ;
-  background-color: whitesmoke;
+  background-color: rgba(255,255,255,0.5);
   margin:20px;
   padding: 15px;
 }
@@ -131,4 +132,8 @@ nav li a.active {
   background-color: whitesmoke;
   margin:20px;
   padding: 1px;
+}
+
+.boxplaatje img {
+  width:100%;
 }
