@@ -164,3 +164,8 @@ nav li a.active {
 .boxplaatjelinks img {
   width:100%;
 }
+
+#container{
+  width: 100%;
+  display: flex;
+}
