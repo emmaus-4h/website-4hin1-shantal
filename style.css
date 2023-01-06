@@ -144,10 +144,23 @@ nav li a.active {
   margin:20px;
   padding: 1px;
    float: right;
-  width:50%;
+  width:45%;
 }
 
 .boxplaatje2 img {
   width:100%;
  
+}
+
+.boxplaatjelinks {
+  border:ridge 10px #cef7fd;
+  background-color:whitesmoke;
+  margin:20px;
+  padding:1px;
+  float:left;
+  width: 45%;
+}
+
+.boxplaatjelinks img {
+  width:100%;
 }
