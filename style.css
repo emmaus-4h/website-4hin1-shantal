@@ -138,7 +138,7 @@ nav li a.active {
   width:100%;
 }
 
-.boxplaatje2 {
+.boxplaatjerechts {
   border:ridge 10px #cef7fd ;
   background-color: whitesmoke;
   margin:20px;
@@ -147,7 +147,7 @@ nav li a.active {
   width:45%;
 }
 
-.boxplaatje2 img {
+.boxplaatjerechts img {
   width:100%;
  
 }
@@ -165,7 +165,46 @@ nav li a.active {
   width:100%;
 }
 
-#container{
+.container {
   width: 100%;
   display: flex;
+}
+
+.boxplaatjelinks2 {
+  border:ridge 10px #cef7fd;
+  background-color:whitesmoke;
+  margin:20px;
+  padding:1px;
+  float:left;
+  width:30%;
+}
+
+.boxplaatjelinks2 img {
+  width:100%;
+}
+
+.boxplaatjecenter {
+  border:ridge 10px #cef7fd;
+  background-color:whitesmoke;
+  margin:20px;
+  padding:1px;
+  float:center;
+  width:30%;
+}
+
+.boxplaatjecenter img {
+  width:100%;
+}
+
+.boxplaatjerechts2 {
+  border:ridge 10px #cef7fd;
+  background-color:whitesmoke;
+  margin:20px;
+  padding:1px;
+  float:right;
+  width:30%;
+}
+
+.boxplaatjerechts2 img {
+  width:100%;
 }
