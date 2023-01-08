@@ -176,11 +176,12 @@ nav li a.active {
   margin:20px;
   padding:1px;
   float:left;
-  width:30%;
+  width:33%;
 }
 
 .boxplaatjelinks2 img {
-  width:100%;
+  max-width: 130%;
+  max-height: 130%;
 }
 
 .boxplaatjecenter {
@@ -189,11 +190,12 @@ nav li a.active {
   margin:20px;
   padding:1px;
   float:center;
-  width:30%;
+  width:33%;
 }
 
 .boxplaatjecenter img {
-  width:100%;
+  max-width: 130%;
+  max-height: 130%;
 }
 
 .boxplaatjerechts2 {
@@ -202,9 +204,10 @@ nav li a.active {
   margin:20px;
   padding:1px;
   float:right;
-  width:30%;
+  width:33%;
 }
 
 .boxplaatjerechts2 img {
-  width:100%;
+  max-width: 130%;
+  max-height: 130%;
 }
